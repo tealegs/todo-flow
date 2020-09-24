@@ -1,0 +1,10 @@
+TODO FLOW TODO:
+[X]get subsortable content editable
+[X]add subsortable js to bootstrap template
+    []get it working
+[]allow select all text on double click
+[]allow for exit to next task on hitting enter
+[]check off feature
+[]localstorage
+[]database storage (mongoDB)
+[]
